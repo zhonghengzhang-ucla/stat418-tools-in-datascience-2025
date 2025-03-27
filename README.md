@@ -1,5 +1,3 @@
-# stat418-tools-in-datascience-2025
-
 # Stats 418: Tools in Data Science
 
 [Stats 418](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=25S&subj_area_cd=STATS%20%20&crs_catlg_no=0418%20%20%20%20&class_id=663636405&class_no=%20080%20%20) is a graduate level statistics course restricted to UCLA Masters in Applied Statistics students. The course will present current tools for data acquisition, transformation and analysis, data visualization, and machine learning and tools for reproducible data analysis, collaboration, and model deployment used by data scientists in practice. Advanced R packages and Python libraries, analytical databases, high-performance machine learning libraries, big data tools. 
@@ -34,24 +32,24 @@ A final project will be completed as individuals. The project will encourage col
 
 ## Course Topics
 
-[Week 1](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-1) \[4/1\]: Introduction to course and each other. Overview of Data Science `tools`. Introduction of containerization and installation of Docker. 
+[Week 1](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-1) \[4/1\]: Introduction to course and each other. Overview of Data Science `tools`. Introduction of containerization and installation of Docker. 
 
-[Week 2](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-2) \[4/8\]: Data Science in the command line. Learning about Unix. Reproducible research/work through git/Github and Docker.
+[Week 2](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-2) \[4/8\]: Data Science in the command line. Learning about Unix. Reproducible research/work through git/Github and Docker.
 
-[Week 3](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-3) \[4/15\]:  More Data Science in the command line. 
+[Week 3](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-3) \[4/15\]:  More Data Science in the command line. 
 
-[Week 4](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-4) \[4/22\]: Acquiring data through APIs, web-scraping, and OCR. Rvest and Beautiful Soup in Python.
+[Week 4](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-4) \[4/22\]: Acquiring data through APIs, web-scraping, and OCR. Rvest and Beautiful Soup in Python.
 
-[Week 5](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-5) \[4/29\]: Tools for data visualization: shiny dashboards and plotly. 
+[Week 5](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-5) \[4/29\]: Tools for data visualization: shiny dashboards and plotly. 
 
-[Week 6](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-6) \[5/6\]: Final Project proposal presentations. Machine Learning libraries in both R and Python. Introduction Retrieval Augmented Generation.
+[Week 6](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-6) \[5/6\]: Final Project proposal presentations. Machine Learning libraries in both R and Python. Introduction Retrieval Augmented Generation.
 
-[Week 7](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-7) \[5/13\]: Continuation of Machine Learning libraries with use of cloud services. 
+[Week 7](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-7) \[5/13\]: Continuation of Machine Learning libraries with use of cloud services. 
 
-[Week 8](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-8) \[5/20\]: Building APIs for model deployment. Exploration of Plumber (R) and Flask (Python)  
+[Week 8](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-8) \[5/20\]: Building APIs for model deployment. Exploration of Plumber (R) and Flask (Python)  
 
-[Week 9](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-9) \[5/27\]: Continuation of API construction for model deployment. 
+[Week 9](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-9) \[5/27\]: Continuation of API construction for model deployment. 
 
-[Week 10](https://github.com/natelangholz/stat418-tools-in-datascience-2019/tree/master/week-10) \[6/3\]: Student Final Presentations. 
+[Week 10](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-10) \[6/3\]: Student Final Presentations. 
 
 
