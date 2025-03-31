@@ -13,9 +13,6 @@ We will also start by installing Docker and forking this repo from Github.
 Week 1 slides and some readings that are of interest.
 
 [slides]()
-
-
-[A Taxonomy of Data Science](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/), Hilary Mason and Chris Wiggins
   
 [Elements and Priciples of Data Analysis](https://arxiv.org/pdf/1903.07639v1.pdf),Stephanie Hicks and Roger Peng
 
@@ -27,5 +24,5 @@ Week 1 slides and some readings that are of interest.
 
 [Radical Change is Coming to Data Science Jobs](https://www.forbes.com/sites/forbestechcouncil/2019/03/01/radical-change-is-coming-to-data-science-jobs/#7648ce4adfcc)
 
-[What do Data Scientists Really Do?](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists), Hugo Bowne-Anderson
+[What do Data Scientists Really Do?](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists), Hugo Bowne-Anderson 
 
