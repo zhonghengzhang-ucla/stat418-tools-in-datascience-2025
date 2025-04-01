@@ -38,7 +38,7 @@ A final project will be completed as individuals. The project will encourage col
 
 [Week 3](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-3) \[4/15\]:  More Data Science in the command line. 
 
-[Week 4](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-4) \[4/22\]: Acquiring data through APIs, web-scraping, and OCR. Rvest and Beautiful Soup in Python.
+[Week 4](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-4) \[4/22\]: Acquiring data through APIs, web-scraping, and PDF processing and parsing. Rvest, Beautiful Soup, Docling.
 
 [Week 5](https://github.com/natelangholz/stat418-tools-in-datascience-2025/tree/master/week-5) \[4/29\]: Tools for data visualization: shiny dashboards and plotly. 
 
