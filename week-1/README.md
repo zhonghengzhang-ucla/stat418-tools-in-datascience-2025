@@ -26,3 +26,8 @@ Week 1 slides and some readings that are of interest.
 
 [What do Data Scientists Really Do?](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists), Hugo Bowne-Anderson 
 
+[Building AI First Products](https://bbgventures.medium.com/should-every-start-up-be-an-ai-start-up-859ba38f8f29), Coversation with Hilary Mason
+
+[What Happens to Data Science in the Age of AI?](https://www.youtube.com/watch?v=Buinzayelcs), High Signal Data Science with Hilary Mason. 
+
+
