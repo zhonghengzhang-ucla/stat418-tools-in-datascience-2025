@@ -3,7 +3,16 @@
 
 ## Project Description
 
-The STAT 418 final project will be to execute a POC in way of building a deployable 'model' and doing a short demo. This requires taking a project from conception to completion including data collection, building a model, and have an interactive output tool that someone else can access (either an API, Streamlit web app, interactive Shiny app)  It should all be put together in a Docker Image for reproducibility (will be shown in class in a few weeks). Create a stand alone github repo for your project that will show the progress of your work and stand as a standlone project (and repo) that you can show outside of class if necessary. 
+The STAT 418 final project will be to execute a POC in way of building a deployable 'model' and doing a short demo. This requires taking a project from conception to completion including:
+* data collection
+* building a model,
+* interactive output tool that someone else can access
+  * either an API
+  * Streamlit web app
+  *  interactive Shiny app
+* a Docker Image for reproducibility (will be shown in class in a few weeks).
+
+Create a stand alone github repo for your project that will show the progress of your work and stand as a standlone project (and repo) that you can show outside of class if necessary. 
 
 Data should be collected through a web scraping process whether it be through an API or scraping the html files themselves. You can pull it however you like but make a nice tabular dataset (if text or images have a reference to the image with other metadata info as other columns) from which you can bulid a simple model. 
 
