@@ -10,30 +10,32 @@ So that we all are using the same environment we will use a Docker Image for the
 
 First we need to pull the image using the follwing:
 
-`docker pull datascienceworkshops/data-science-at-the-command-line`
+`docker pull datasciencetoolbox/dsatcl2e`
 
 Then to run the image
 
-`docker run --rm -it datascienceworkshops/data-science-at-the-command-line`
+`docker run --rm -it datasciencetoolbox/dsatcl2e`
 
 To leave the environment simply type `exit`
 
 Now to mount your local directory as a volume using the following commands
 
 On a Mac:
-`docker run --rm -it -v`pwd`:/data datascienceworkshops/data-science-at-the-command-line`
+`docker run --rm -it -v "$(pwd)":/data datasciencetoolbox/dsatcl2e`
 
-In Windows command line (hasn't worked)
-`docker run --rm -it -v %cd%:/data datascienceworkshops/data-science-at-the-command-line`
+In Windows command line
+`docker run --rm -it -v "%cd%":/data datasciencetoolbox/dsatcl2e`
 
 In Windows powershell (hasn't worked)
-`docker run --rm -it -v ${PWD}:/data datascienceworkshops/data-science-at-the-command-line`
+`docker run --rm -it -v ${PWD}:/data datasciencetoolbox/dsatcl2e`
 
   
 ## Resources
 
 [Slides]()
 
+-----
+[Info on Containerization](https://www.ibm.com/think/topics/containerization)
 
 -----
 
@@ -46,6 +48,8 @@ https://www.git-tower.com/blog/git-cheat-sheet
 https://guides.github.com/introduction/git-handbook/
 
 http://happygitwithr.com
+
+[Linus Torvald's: Sorry for Being a Jerk](https://www.pcmag.com/news/linuxs-linus-torvalds-sorry-for-being-a-jerk)
 
 ------
 
