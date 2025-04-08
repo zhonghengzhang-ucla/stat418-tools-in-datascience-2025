@@ -13,6 +13,8 @@ We will also start by installing Docker and forking this repo from Github.
 Week 1 slides and some readings that are of interest.
 
 [slides](https://github.com/natelangholz/stat418-tools-in-datascience-2025/blob/main/week-1/slides-week-1.pdf)
+
+[Is Data Scientist Still the Sexiest Job of the 21st Century?](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century)
   
 [Elements and Priciples of Data Analysis](https://arxiv.org/pdf/1903.07639v1.pdf),Stephanie Hicks and Roger Peng
 
