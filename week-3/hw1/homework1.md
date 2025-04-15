@@ -19,6 +19,6 @@ Answer the following for each file.
 7. What time of day is the site active? When is it quiet?
 8. What is the biggest overall response (in bytes) and what is the average?
 
-7.There was a hurricane during August where there was no data collected. Identify the times and dates when data was not collected for August. How long was the outage?
-8. Which date saw the most activity overall?
-9. Excluding the outage dates which date saw the least amount of activity?
+9.There was a hurricane during August where there was no data collected. Identify the times and dates when data was not collected for August. How long was the outage?
+10. Which date saw the most activity overall?
+11. Excluding the outage dates which date saw the least amount of activity?
