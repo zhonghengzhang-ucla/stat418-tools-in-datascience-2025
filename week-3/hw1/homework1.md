@@ -10,13 +10,15 @@ Answer the following questions with your script and have any words to support yo
 
 Answer the following for each file.
 
-1. List the top 10 web sites from which requests came (non-404 status, external addresses looking in).
-2. List the top 10 local web pages requested (non-404 status).
-3. List the top 10 web browsers used to access the site. It is not necessary to get fancy and parse out all of the browser string. Simply print out the information that is there. Display the percentage of all browser types that each line represents.
-4. List the number of 404 errors that were reported in the log. 
-5. List the number of 500 errors that were reported in the log. 
-6. What time of day is the site active? When is it quiet?
-7. Is the traffic "real" or mostly the result of robots or automated processes?
+1. List the top 10 web sites from which requests came (non-404 status).
+2. What percentage of host requests came from IP vs hostname?
+3. List the top 10 requests (non-404 status).
+4. List the most frequent request types? 
+5. How many 404 errors were reported in the log? 
+6. What is the most frequent response code and what percentage of reponses did this account for? 
+7. What time of day is the site active? When is it quiet?
+8. What is the biggest overall response (in bytes) and what is the average?
 
-Answer the following questions comparing the two:
-
+7.There was a hurricane during August where there was no data collected. Identify the times and dates when data was not collected for August. How long was the outage?
+8. Which date saw the most activity overall?
+9. Excluding the outage dates which date saw the least amount of activity?
