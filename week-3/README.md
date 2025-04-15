@@ -2,36 +2,30 @@
 
 ## Week Overview
 
-We talk about the Unix operating system that we started last week. Time permitting we will begin looking at web scraping through [The New York Times Developer Network](https://developer.nytimes.com) API.
+We will continue talking about the Unix operating system that we started last week. Time permitting we will begin looking at web scraping through [The New York Times Developer Network](https://developer.nytimes.com) API.
 
-So that we all are using the same environment we will use a Docker Image for the book [Data Science at the Command Line](https://www.datascienceatthecommandline.com/index.html) by Jeroen Janssens, version 1, which is not the same image at the link. The following commands pull the image v1 from dockerhub. 
+So that we all are using the same environment we will use a Docker Image for the book [Data Science at the Command Line](https://www.datascienceatthecommandline.com/index.html) by Jeroen Janssens. 
 
 First we need to pull the image using the follwing:
 
-`docker pull jeroenjanssens/data-science-at-the-command-line`
+`docker pull datasciencetoolbox/dsatcl2e`
 
 Then to run the image
 
-`docker run --rm -it jeroenjanssens/data-science-at-the-command-line`
+`docker run --rm -it datasciencetoolbox/dsatcl2e`
 
 To leave the environment simply type `exit`
 
 Now to mount your local directory as a volume using the following commands
 
 On a Mac:
-`docker run --rm -it -v "$(pwd)":/data jeroenjanssens/data-science-at-the-command-line`
+`docker run --rm -it -v "$(pwd)":/data datasciencetoolbox/dsatcl2e`
 
 In Windows command line
-`docker run --rm -it -v "%cd%":/data jeroenjanssens/data-science-at-the-command-line`
+`docker run --rm -it -v "%cd%":/data datasciencetoolbox/dsatcl2e`
 
-In Windows powershell 
-`docker run --rm -it -v ${PWD}:/data jeroenjanssens/data-science-at-the-command-line`
-
------
-Also, the data will need to be downloaded from:
-(https://www.datascienceatthecommandline.com/2e/data.zip)
-
-And placed in a directory where you can access. 
+In Windows powershell (hasn't worked)
+`docker run --rm -it -v ${PWD}:/data datasciencetoolbox/dsatcl2e`
 
 ## Resources
 
@@ -39,7 +33,7 @@ And placed in a directory where you can access.
 
 -----
 
-This Docker Image for the Unix environment we will use as a class came from this book
+This Docker Image for the Unix environment we will use as a class came from this great book
 
 [Data Science at the Command Line](https://www.datascienceatthecommandline.com/index.html) by Jeroen Janssens.
 
