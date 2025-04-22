@@ -6,7 +6,7 @@ Week 4 will take a look at running a Python Jupyter environment in Docker and We
 
 ## Resources
 
-[Slides](https://github.com/natelangholz/stat418-tools-in-datascience/blob/master/week-4/slides-week-4.pdf)
+[Slides](https://github.com/natelangholz/stat418-tools-in-datascience-2025/blob/master/week-4/slides-week-4.pdf)
 
 Much of the notebooks and slides are adaptations from this [University of Colorado mini-course](https://github.com/CU-ITSS/Web-Data-Scraping-S2023)
 
@@ -22,7 +22,7 @@ Much of the notebooks and slides are adaptations from this [University of Colora
 
 [The Follower Factory](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
 
-[Scarlett Johansson Wants Answers](https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her}
+[Scarlett Johansson Wants Answers](https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her)
 
 [OpenAI v. Scarlett Johansson?](https://www.georgetown.edu/news/ask-a-professor-openai-v-scarlett-johansson/)
 
